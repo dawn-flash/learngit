@@ -1,2 +1,3 @@
 git is a distributed version control system
-dit is a software distributed under the GPL
+Git is a software distributed under the GPL
+Git has mutable index called stage
